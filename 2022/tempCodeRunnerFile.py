@@ -1,0 +1,1 @@
+[(dx,dy) for dx in [-1,1] for dy in [-1,1]]

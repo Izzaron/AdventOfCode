@@ -1,0 +1,101 @@
+#123456789
+ ABCDEFGHI
+
+  @   @
+ @ @ @ @
+@   @   @
+###.#.##.#
+ ABCDEFGHI
+
+
+1 (must)
+#.########
+ ABCDEFGHI
+
+!A
+
+2 (can)
+##.#######
+ ABCDEFGHI
+
+2a (must)
+##.##.####
+ ABCDEFGHI
+
+2b (must)
+##.###.##.
+ ABCDEFGHI
+
+or: !B and (!E or (!F and !I))
+
+3 (can)
+###.######
+ ABCDEFGHI
+
+3a (must)
+###.##.##.
+ ABCDEFGHI
+
+3b (must)
+###.#..###
+ ABCDEFGHI
+
+or: !C and !F and (!I or !E)
+
+4 (must not)
+####.#####
+ ABCDEFGHI
+
+and: D
+
+
+TRY 1
+
+!A
+or (!B or !C) and (!F and !I)
+or !B and !E
+and D
+
+!A -> J
+
+or F -> T
+or I -> T
+not T -> T
+and C -> T
+and B -> T
+not T -> T
+or T -> J
+
+not B -> T
+not T -> T
+or E -> T
+not T -> T
+or T -> J
+
+and D
+
+TRY 2
+
+!A
+or: !B and (!E or (!F and !I))
+or: !C and !F and (!I or !E)
+and: D
+
+1  !A -> J
+
+2  or  F -> T
+3  or  I -> T
+4  not T -> T
+5  and E -> T
+6  not T -> T
+7  or  B -> T
+8  not T -> T
+9  or  T -> J
+
+10 
+11 
+12 
+13 
+14 
+
+15  and D -> J

@@ -1,0 +1,15 @@
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/bin/Debug/net7.0/AdventOfCode
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/bin/Debug/net7.0/AdventOfCode.deps.json
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/bin/Debug/net7.0/AdventOfCode.runtimeconfig.json
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/bin/Debug/net7.0/AdventOfCode.dll
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/bin/Debug/net7.0/AdventOfCode.pdb
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/obj/Debug/net7.0/AdventOfCode.csproj.AssemblyReference.cache
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/obj/Debug/net7.0/AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/obj/Debug/net7.0/AdventOfCode.AssemblyInfoInputs.cache
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/obj/Debug/net7.0/AdventOfCode.AssemblyInfo.cs
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/obj/Debug/net7.0/AdventOfCode.csproj.CoreCompileInputs.cache
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/obj/Debug/net7.0/AdventOfCode.dll
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/obj/Debug/net7.0/refint/AdventOfCode.dll
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/obj/Debug/net7.0/AdventOfCode.pdb
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/obj/Debug/net7.0/AdventOfCode.genruntimeconfig.cache
+/Users/gustafholstenqvist/Projects/AdventOfCode/2015/AdventOfCode/obj/Debug/net7.0/ref/AdventOfCode.dll

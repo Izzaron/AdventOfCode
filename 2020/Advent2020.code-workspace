@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../cube"
+		},
+		{
+			"path": "../../Decay Tree/Parsing/cpp/source files"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"bitset": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"list": "cpp",
+			"memory": "cpp",
+			"random": "cpp",
+			"iomanip": "cpp"
+		}
+	}
+}
